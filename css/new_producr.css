@@ -52,3 +52,17 @@ li{
      
    
 }
+/* media phone
+--------------------------------*/
+@media screen and (max-width: 500px) {
+    
+    h2{
+        text-align: center;
+    }
+    .product{
+        margin-left: 10px;
+    }
+    .one{
+        margin-top: 10px;
+    }
+}
